@@ -6,7 +6,8 @@ The ultrasonic sensor is mounted on a servo and continuously scans its surroundi
 
 ---
 
-![Uploading image.png…]()
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-20 at 15 40 03" src="https://github.com/user-attachments/assets/b73ecc1a-96e9-4b33-b72a-fecc2773e3cf" />
+
 
 
 
