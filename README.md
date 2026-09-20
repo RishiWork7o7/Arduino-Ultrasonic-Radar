@@ -6,6 +6,10 @@ The ultrasonic sensor is mounted on a servo and continuously scans its surroundi
 
 ---
 
+![Uploading image.png…]()
+
+
+
 ## 🎯 Project Objective
 
 The goal of this project is to learn Arduino and embedded systems through a practical project rather than isolated basic experiments.
